@@ -45,6 +45,7 @@ gem "bootsnap", require: false
 # gem "image_processing", "~> 1.2"
 
 # Test web scraper
+# TODO see docs: https://rubygems.org/gems/metainspector
 gem 'metainspector', '~> 5.15'
 
 group :development, :test do
